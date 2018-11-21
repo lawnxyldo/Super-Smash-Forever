@@ -1,1 +1,1 @@
-worker: node Super Smash Forever
+worker: node bot.js
